@@ -60,7 +60,7 @@ class HabitTracker:
             total_days = len(dates)
             print(f"{habit}:")
             print(f"  🔥 Текущая серия: {streak} дней")
-            print(f"  📈 Всего выполнено: {total_days} раз")
+            print(f"  📈 Всего выполнено: {total_days} раз!")
             print()
 
 
