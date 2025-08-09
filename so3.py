@@ -73,8 +73,8 @@ tracker.add_habit("Чтение")
 tracker.add_habit("Медитация")
 
 # Отмечаем выполнение
-tracker.mark_done("Зарядка")
-tracker.mark_done("Чтение")
+tracker.mark_done("Зарядка)))")
+tracker.mark_done("Чтение)))")
 
 # Показываем статистику
 tracker.show_stats()
