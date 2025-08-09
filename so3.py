@@ -68,7 +68,7 @@ class HabitTracker:
 tracker = HabitTracker()
 
 # Добавляем привычки
-tracker.add_habit("Зарядка")
+tracker.add_habit("Зарядка)")
 tracker.add_habit("Чтение")
 tracker.add_habit("Медитация")
 
