@@ -29,7 +29,7 @@ def check_password_strength(password):
     if len(password) >= 8:
         score += 1
     else:
-        feedback.append("Добавьте больше символов (минимум 8)")
+        feedback.append("Добавьте больше символов 11(минимум 8)")
 
     if any(c.isupper() for c in password):
         score += 1
